@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DznwDyMD/LOGO-JOGJA-TV-NEW-pii-new1.png" group-title="TV Lokal", Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="TV Lokal", TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8

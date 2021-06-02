@@ -1,0 +1,160 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="cctv", APMD (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/APMD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Bandara (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Bandara.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Bandara 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Bandara2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Besi (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Besi.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Borobudur Plaza (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/BorobudurPlaza.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", BPK (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/BPK.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Cendana (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Condongcatur 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Condongcatur2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Damai Timur (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/DamaiTimur.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Demak Ijo 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/DemakIjo2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Demangan (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Demangan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Galeria (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Galeria.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Gayam (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Giwangan 1 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Giwangan1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Giwangan 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Giwangan2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Glagahsari (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/GLAGAHSARI.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Gramedia (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gramedia.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Gondomanan (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Ibu Ruswo (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/IbuRuswo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Jlagran (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Jlagran.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Ketandan (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Ketandan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Ketandan 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Ketandan2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Kids Fun (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/KidsFun.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Kilometer Nol (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/KMNol.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Kronggahan (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Kronggahan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Maguwo 1 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Maguwo1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Maguwo 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Maguwo2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Mirota Kampus (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Ngasem (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Ngasem.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Pasar Kembang (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang3PasarKembang.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Pelem Gurih 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/PelemGurih2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Permata (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Permata.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Piyungan (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Piyungan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", PKU Muhammadiyah (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/PKUMuh.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Pojok Beteng Kulon (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengKulon.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Pojok Beteng Wetan (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Prambanan 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Prambanan2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Selokan Mataram (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/SelokanMataram.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Sentul (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Serangan (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Serangan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Seturan 1 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Seturan1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Seturan 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Seturan2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", SGM (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Tamansari (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tamansari.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Tugu 1 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Tugu1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Tugu 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Tugu2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Tungkak (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tungkak.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Tunjung (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tunjung.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", UIN 2 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/UIN2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", UKDW (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/UKDW.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", UST (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/UST.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Wirobrajan (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="cctv", Wojo (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Wojo.stream/playlist.m3u8
