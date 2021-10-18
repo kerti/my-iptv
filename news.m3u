@@ -22,7 +22,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5409
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="Kompas TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="Berita", Kompas TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=874
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G8PDSyoaavrCl44qg9w5u6g)/dm/3/x6pz4sa/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="METROTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040416.png" group-title="Berita", Metro TV
 https://stream-02.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSzmxzZ5bUqlFDlYEqgGOLDY)/dm/3/x75p70w/d/live-3.m3u8
