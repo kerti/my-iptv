@@ -1,34 +1,53 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="TV Nasional", ANTV
+# ADDED-2021-06-02
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="TV Nasional", ANTV [SD]
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV Nasional", Indosiar
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
+# ADDED-2021-06-02
+# INVALID-2023-06-06 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV Nasional", Indosiar [SD]
+http://210.210.155.35/session/89457eba-0431-11ee-a1c4-a612a7acdcb9/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV Nasional", GTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
+# ADDED-2021-06-02
+# INVALID-2023-06-06 EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV Nasional", GTV
+# https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" group-title="TV Nasional", MNC TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
+# ADDED-2023-06-06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="TV Nasional", Magna Channel [FHD]
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="TV Nasional", NET.
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
+# ADDED-2021-06-02
+# INVALID-2023-06-06 EXTINF:-1 tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" group-title="TV Nasional", MNC TV
+# https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="TV Nasional", RCTI
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
+# ADDED-2021-06-02
+# INVALID-2023-06-06 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="TV Nasional", NET. [HD]
+http://210.210.155.35/session/ec7fd31c-042d-11ee-91ea-bdeab3c0f74c/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="TV Nasional", SCTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+# ADDED-2021-06-02
+# INVALID-2023-06-06 EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="TV Nasional", RCTI
+# https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV Nasional", TRANS 7
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
+# ADDED-2021-06-02
+# INVALID-2023-06-06 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="TV Nasional", SCTV [SD]
+http://210.210.155.35/session/6925e930-0431-11ee-b6ee-981188bf0228/qwr9ew/s/s03/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="TV Nasional", TRANS TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733
+# ADDED-2021-06-02
+# INVALID-2023-06-06 EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV Nasional", TRANS 7
+# https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="TV Nasional", TVOne
-https://iptv-nublltsls-mwafa.vercel.app/api/yt?id=XdZ2nJvmfrI
+# ADDED-2021-06-02
+# INVALID-2023-06-06 EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="TV Nasional", TRANS TV
+# https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="TV Nasional", TVRI
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
+# ADDED-2021-06-02
+# INVALID-2023-06-06 https://iptv-nublltsls-mwafa.vercel.app/api/yt?id=XdZ2nJvmfrI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="TV Nasional", TVOne [SD]
+http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
+
+# ADDED-2021-06-02
+# INVALID-2023-06-06 EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="TV Nasional", TVRI
+# https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
