@@ -57,7 +57,11 @@ https://mam.jogjaprov.go.id:1937/atcs/DemakIjo2.stream/playlist.m3u8
 https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/playlist.m3u8
 
 # ADDED-2023-06-06
-# INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Giwangan (ATCS)
+#EXTINF:-1 group-title="cctv", Gedongkuning (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gedongkuning.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Giwangan (ATCS)
 https://mam.jogjaprov.go.id:1937/atcs/Giwangan.stream/playlist.m3u8
 
 # ADDED-2021-06-02
@@ -76,6 +80,10 @@ https://mam.jogjaprov.go.id:1937/atcs/Giwangan.stream/playlist.m3u8
 #EXTINF:-1 group-title="cctv", Gramedia (ATCS Kota)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Gramedia.stream/playlist.m3u8
 
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Gramedia 2 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gramedia2.stream/playlist.m3u8
+
 # ADDED-2021-06-02
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Gondomanan (ATCS Kota)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/playlist.m3u8
@@ -83,6 +91,10 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Gramedia.stream/playlist.m3u8
 # ADDED-2021-06-02
 #EXTINF:-1 group-title="cctv", Ibu Ruswo (ATCS Kota)
 https://mam.jogjaprov.go.id:1937/atcs-kota/IbuRuswo.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Jetis (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Jetis.stream/playlist.m3u8
 
 # ADDED-2021-06-02
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Jlagran (ATCS Kota)
@@ -108,6 +120,14 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/KMNol.stream/playlist.m3u8
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Kronggahan (ATCS)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs/Kronggahan.stream/playlist.m3u8
 
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Kyai Mojo 1 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/KyaiMojo1.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Kyai Mojo 2 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/KyaiMojo2.stream/playlist.m3u8
+
 # ADDED-2021-06-02
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Maguwo 1 (ATCS)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs/Maguwo1.stream/playlist.m3u8
@@ -124,12 +144,16 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/playlist.m3u8
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Ngasem (ATCS)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs/Ngasem.stream/playlist.m3u8
 
-# ADDED-2021-06-02
-# INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Pasar Kembang (ATCS Kota)
-# INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang3PasarKembang.stream/playlist.m3u8
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Parkiran Ngabean (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/ParkiranNgabean.stream/playlist.m3u8
 
 # ADDED-2023-06-06
-# INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Pedes (ATCS)
+#EXTINF:-1 group-title="cctv", Pasar Demangan (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/PasarDemangan.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Pedes (ATCS)
 https://mam.jogjaprov.go.id:1937/atcs/Pedes.stream/playlist.m3u8
 
 # ADDED-2021-06-02
@@ -161,6 +185,114 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/playlist.m3u8
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs/Prambanan2.stream/playlist.m3u8
 
 # ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Among Rogo Timur (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangAmongrogoTimur.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Balaikota Timur (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaTimur.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Balaikota Utara (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikotaUtara.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Bausasran (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBausasran.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Borobudur Plaza (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBorobudurPlaza.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang de Britto (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDeBritto.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Demangan Selatan (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDemanganSelatan.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Demangan Timur (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDemanganTimur.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Demangan Utara (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangDemanganUtara.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Galeria Timur Selatan (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangGaleriaTImurSelatan.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Jati Kencana (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangJatikencana.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Menteri Supeno 1 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_MenteriSupeno1.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Menteri Supeno 2 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_MenteriSupeno2.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Pasar Gading 2 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/playlist.m3u8
+
+# ADDED-2021-06-02
+# INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Simpang Pasar Kembang (ATCS Kota)
+# INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang3PasarKembang.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Pingit 1 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit1.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Pingit 2 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Pingit 3 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Pingit 4 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Rejowinangun Timur (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangRejowinangunTimur.stream/playlist.m3u8
+
+# ADDED-2021-06-02
+#EXTINF:-1 group-title="cctv", Simpang SGM (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Sugeng Jeroni 1 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni1.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Sugeng Jeroni 2 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni2.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Terban Barat (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTerbanBarat.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Terban Timur (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTerbanTimur.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Terban Utara (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTerbanUtara.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Simpang Tugu (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangTugu.stream/playlist.m3u8
+
+# ADDED-2023-06-06
 #EXTINF:-1 group-title="cctv", Sedayu (ATCS)
 https://mam.jogjaprov.go.id:1937/atcs/Sedayu.stream/playlist.m3u8
 
@@ -183,10 +315,6 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Serangan.stream/playlist.m3u8
 # ADDED-2021-06-02
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Seturan 2 (ATCS)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs/Seturan2.stream/playlist.m3u8
-
-# ADDED-2021-06-02
-#EXTINF:-1 group-title="cctv", SGM (ATCS Kota)
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/playlist.m3u8
 
 # ADDED-2021-06-02
 #EXTINF:-1 group-title="cctv", Tamansari (ATCS Kota)
@@ -219,6 +347,15 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/UKDW.stream/playlist.m3u8
 # ADDED-2021-06-02
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", UST (ATCS Kota)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs-kota/UST.stream/playlist.m3u8
+
+# ADDED-2021-06-02
+#EXTINF:-1 group-title="cctv", Warungboto 1 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Warungboto1.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Warungboto 2 (ATCS Kota)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Warungboto2.stream/playlist.m3u8
+
 
 # ADDED-2021-06-02
 #EXTINF:-1 group-title="cctv", Wirobrajan (ATCS Kota)
