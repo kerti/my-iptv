@@ -36,6 +36,10 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/playlist.m3u8
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Damai Timur (ATCS)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs/DamaiTimur.stream/playlist.m3u8
 
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Demak Ijo 1 (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/DemakIjo1.stream/playlist.m3u8
+
 # ADDED-2021-06-02
 #EXTINF:-1 group-title="cctv", Demak Ijo 2 (ATCS)
 https://mam.jogjaprov.go.id:1937/atcs/DemakIjo2.stream/playlist.m3u8
@@ -51,6 +55,10 @@ https://mam.jogjaprov.go.id:1937/atcs/DemakIjo2.stream/playlist.m3u8
 # ADDED-2021-06-02
 #EXTINF:-1 group-title="cctv", Gayam (ATCS Kota)
 https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+# INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Giwangan (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Giwangan.stream/playlist.m3u8
 
 # ADDED-2021-06-02
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Giwangan 1 (ATCS)
@@ -120,6 +128,10 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/playlist.m3u8
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Pasar Kembang (ATCS Kota)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang3PasarKembang.stream/playlist.m3u8
 
+# ADDED-2023-06-06
+# INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Pedes (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Pedes.stream/playlist.m3u8
+
 # ADDED-2021-06-02
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Pelem Gurih 2 (ATCS)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs/PelemGurih2.stream/playlist.m3u8
@@ -147,6 +159,10 @@ https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/playlist.m3u8
 # ADDED-2021-06-02
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Prambanan 2 (ATCS)
 # INVALID-2023-06-06 https://mam.jogjaprov.go.id:1937/atcs/Prambanan2.stream/playlist.m3u8
+
+# ADDED-2023-06-06
+#EXTINF:-1 group-title="cctv", Sedayu (ATCS)
+https://mam.jogjaprov.go.id:1937/atcs/Sedayu.stream/playlist.m3u8
 
 # ADDED-2021-06-02
 # INVALID-2023-06-06 EXTINF:-1 group-title="cctv", Selokan Mataram (ATCS)
